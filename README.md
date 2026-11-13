@@ -20,6 +20,28 @@ Developed by **Yame92**, WACHEONUI helps players observe, record, and share weat
 - **Customizable Interface** — Includes configurable weather panels and display settings.
 - **Korean and English UI** — Automatic interface localization based on the game client language (English support under testing).
 
+
+## Screenshots
+
+### World Map Weather Observation
+View observed weather conditions across Azeroth directly on the world map.
+
+![WACHEONUI World Map](world-map.png)
+
+### Dynamic Minimap Weather Effects
+The minimap weather display changes according to the weather conditions in the surrounding area.
+
+**Normal Weather**
+
+![Normal Minimap Weather](minimap_empty.png)
+
+**Weather Effect Active**
+
+![Minimap Weather Effect Active](minimap_effect.png)
+
+### Additional Preview
+![WACHEONUI Additional Preview](expected%20screen.png)
+    
 ## Download & Installation
 
 **[Download WACHEONUI on CurseForge](https://www.curseforge.com/wow/addons/wacheonui-azeroth-weather-observatory)**
