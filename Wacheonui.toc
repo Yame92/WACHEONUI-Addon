@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: Wacheonui - Azeroth Weather Network
+## Notes: Azeroth weather observations, map indicators, last-known weather history, and guild/party sharing (WoW Forever)
+## Author: Wacheonui Project
+## Version: 0.8.5
+## SavedVariables: WacheonuiDB
+Wacheonui_Locale.lua
+Wacheonui_DB70707.lua
+Wacheonui.lua
+Wacheonui_Map.lua
+Wacheonui_UI.lua
