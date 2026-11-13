@@ -26,7 +26,7 @@ Developed by **Yame92**, WACHEONUI helps players observe, record, and share weat
 ### World Map Weather Observation
 View observed weather conditions across Azeroth directly on the world map.
 
-### expected game Preview
+### Expected game Preview
 ![WACHEONUI Additional Preview](expected%20screen.png)
 
 ### Actual game Preview
