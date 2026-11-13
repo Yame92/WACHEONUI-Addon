@@ -26,6 +26,10 @@ Developed by **Yame92**, WACHEONUI helps players observe, record, and share weat
 ### World Map Weather Observation
 View observed weather conditions across Azeroth directly on the world map.
 
+### expected game Preview
+![WACHEONUI Additional Preview](expected%20screen.png)
+
+### Actual game Preview
 ![WACHEONUI World Map](world-map.png)
 
 ### Dynamic Minimap Weather Effects
@@ -38,9 +42,6 @@ The minimap weather display changes according to the weather conditions in the s
 **Weather Effect Active**
 
 ![Minimap Weather Effect Active](minimap_effect.png)
-
-### Additional Preview
-![WACHEONUI Additional Preview](expected%20screen.png)
     
 ## Download & Installation
 
